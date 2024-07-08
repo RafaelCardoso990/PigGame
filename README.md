@@ -1,6 +1,6 @@
 # Pig Game
 
-Pig Game é um jogo simples multiplayuer, consiste em guardar números rolados no dado, quem chegar em 20 primeiro ganha.
+Pig Game é um jogo simples multiplayer, consiste em guardar números rolados no dado, quem chegar em 20 primeiro ganha.
 
 ## Instalação 
 
